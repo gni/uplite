@@ -10,9 +10,10 @@
   },
   "author": "Lucian BLETAN <neuraluc@gmail.com>",
   "license": "MIT",
-  "description": "A lightweight and secure file-sharing server.",
+  "description": "A lightweight and secure file upload/sharing server.",
   "keywords": [
     "file-sharing",
+    "file-upload",
     "uplite",
     "nodejs",
     "secure",
